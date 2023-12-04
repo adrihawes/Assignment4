@@ -4,7 +4,7 @@
    - Assignment4 is a Python application that simulates rolling two six-sided dice. It uses the `random` module to generate a random number between 1 and 12 and prints the result. The user is prompted to roll the dice again, and the process can be repeated by entering 'yes'. The application is designed for interactive use, allowing the user to experience the randomness of dice rolls.
 
 2. How to Run the Application:
-   - Open your web browser and go to the GitHub repository page: [https://github.com/adrihawes/Assignment4.git](https://github.com/adrihawes/Assignment4.git)
+   - Open your web browser and go to the GitHub repository page: [https://github.com/adrihawes/Assignment4.git]
    - Click on the "Code" button and select "Download ZIP."
    - Extract the downloaded ZIP file to a location of your choice.
    - Navigate to the Project Directory:
@@ -33,6 +33,6 @@
    - https://github.com/adrihawes/Assignment4.git
 
 4. Docker Hub Image URL:
-   - [Replace with the Docker Hub image URL after uploading]
+   - https://hub.docker.com/layers/adrianahawes/myapp-image/latest/images/sha256:09a14a5188a1e818ff3b60476872332516bcaff7ff30463f3c5e0fc1ec0381ef?uuid=21B1A8A1-FD87-423B-B612-820F5BB72677
 
 ----------------------------------------
